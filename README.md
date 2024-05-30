@@ -1,8 +1,8 @@
 ![logo](https://github.com/NupurItIs/NupurItIs/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Nupur Chaudhari</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+<h3 align="center">An aspiring developer from India</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://miro.medium.com/v2/resize:fit:1358/1*qdAW1TjCN57h1lbuuzvchg.gif”>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*qdAW1TjCN57h1lbuuzvchg.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nupuritis&label=Profile%20views&color=0e75b6&style=flat" alt="nupuritis" /> </p>
 
@@ -22,4 +22,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nupuritis&show_icons=true&locale=en&layout=compact" alt="nupuritis" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nupuritis&show_icons=true&locale=en" alt="nupuritis" /></p>
